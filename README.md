@@ -21,6 +21,10 @@ Here’s a simple example of an HTML page that you'll create during this session
 
 ![Screenshot 2024-09-18 191450](https://github.com/user-attachments/assets/f21e63db-2e1e-4f0d-981d-1f1d9a4034bf)
 
+## Live Preview
+
+[![Live Preview](https://img.shields.io/badge/Live-Preview-brightgreen)](https://vimeo.com/1010600492)
+
 
 ```html
 <!DOCTYPE html>
